@@ -40,6 +40,13 @@ class RogueElfDetector:
         elf_behavior = self.behavior_logs[self.behavior_logs['Elf_Name'] == elf_name].copy()
         if elf_behavior.empty:
             return {"error": f"No behavior data found for elf: {elf_name}"}
+        
+        # Initialize AI analyzer (new code)
+        try:
+            ai_analyzer = AIElfAnalyzer()
+        except Exception as e:
+            print(f"AI analyzer initialization failed: {e}")
+            ai_analyzer = None
 
         # Calculate risk metrics
         risk_metrics = {
