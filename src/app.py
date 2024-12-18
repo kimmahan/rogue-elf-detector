@@ -4,6 +4,7 @@ from pathlib import Path
 import os
 from datetime import datetime
 from dotenv import load_dotenv
+from ai_analyzer import AIElfAnalyzer
 
 # Load environment variables
 load_dotenv()
