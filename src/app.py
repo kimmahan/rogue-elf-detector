@@ -8,7 +8,14 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-app = Flask(__name__)
+# Get the absolute path to the templates directory
+template_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), 'templates'))
+print(f"Template directory: {template_dir}")
+print(f"Template exists: {os.path.exists(template_dir)}")
+print(f"index.html exists: {os.path.exists(os.path.join(template_dir, 'index.html'))}")
+
+# Initialize Flask with template directory
+app = Flask(__name__, template_folder=template_dir)
 
 class RogueElfDetector:
     def __init__(self):
@@ -120,7 +127,16 @@ def workshop_status():
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    try:
+        return render_template('index.html')
+    except Exception as e:
+        return f"""
+        <h1>Debug Info:</h1>
+        <p>Error: {str(e)}</p>
+        <p>Template folder: {template_dir}</p>
+        <p>Templates exist: {os.path.exists(template_dir)}</p>
+        <p>index.html exists: {os.path.exists(os.path.join(template_dir, 'index.html'))}</p>
+        """
 
 if __name__ == '__main__':
     app.run(debug=True)
