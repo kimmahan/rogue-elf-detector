@@ -1,0 +1,301 @@
+Incident_Type,Reported_By,Affected_Production_Line,Time_of_Incident
+Theft,Kayla,Line 1,2024-12-01 00:31:20
+Missed Deadline,Karen,Line 4,2024-12-01 00:23:14
+Sabotage,James,Line 4,2024-12-01 00:25:49
+Theft,Kenneth,Line 3,2024-12-01 04:09:24
+Theft,Wesley,Line 4,2024-12-01 02:36:06
+Missed Deadline,Andrew,Line 3,2024-12-01 01:16:03
+Missed Deadline,Linda,Line 3,2024-12-01 02:38:35
+Theft,Richard,Line 4,2024-12-01 01:22:41
+Theft,Sierra,Line 4,2024-12-01 02:23:42
+Missed Deadline,Connor,Line 2,2024-12-01 04:02:02
+Sabotage,Shannon,Line 2,2024-12-01 02:43:42
+Sabotage,Christopher,Line 3,2024-12-01 00:25:26
+Missed Deadline,Megan,Line 2,2024-12-01 00:26:10
+Sabotage,Monique,Line 2,2024-12-01 00:30:44
+Theft,Lisa,Line 2,2024-12-01 01:48:40
+Theft,Michael,Line 4,2024-12-01 00:20:03
+Missed Deadline,Molly,Line 4,2024-12-01 01:57:19
+Theft,Chad,Line 1,2024-12-01 00:55:37
+Theft,Tiffany,Line 1,2024-12-01 04:08:36
+Theft,Christopher,Line 2,2024-12-01 02:01:22
+Missed Deadline,Richard,Line 4,2024-12-01 01:15:58
+Missed Deadline,Peggy,Line 4,2024-12-01 03:41:27
+Missed Deadline,Wesley,Line 2,2024-12-01 01:00:05
+Theft,Brittany,Line 1,2024-12-01 00:03:09
+Theft,Amy,Line 2,2024-12-01 00:16:02
+Missed Deadline,Michael,Line 1,2024-12-01 02:49:21
+Missed Deadline,David,Line 4,2024-12-01 02:59:15
+Theft,Amber,Line 3,2024-12-01 03:35:16
+Sabotage,Scott,Line 2,2024-12-01 00:19:16
+Theft,Jeffrey,Line 4,2024-12-01 03:37:29
+Missed Deadline,John,Line 4,2024-12-01 04:11:27
+Sabotage,Valerie,Line 2,2024-12-01 01:47:04
+Theft,Steven,Line 4,2024-12-01 01:42:41
+Sabotage,Nicholas,Line 3,2024-12-01 02:23:22
+Sabotage,Larry,Line 1,2024-12-01 02:09:27
+Missed Deadline,Holly,Line 1,2024-12-01 04:01:44
+Missed Deadline,Anne,Line 4,2024-12-01 03:34:44
+Theft,Kristina,Line 3,2024-12-01 03:19:32
+Theft,David,Line 3,2024-12-01 01:58:49
+Missed Deadline,Stephen,Line 3,2024-12-01 03:04:00
+Sabotage,Julie,Line 3,2024-12-01 00:03:30
+Sabotage,Michele,Line 1,2024-12-01 01:15:02
+Missed Deadline,Bradley,Line 2,2024-12-01 04:21:38
+Missed Deadline,James,Line 3,2024-12-01 04:20:10
+Theft,Ryan,Line 3,2024-12-01 01:50:54
+Sabotage,Amy,Line 4,2024-12-01 04:49:51
+Theft,Justin,Line 2,2024-12-01 00:21:14
+Theft,Brittany,Line 4,2024-12-01 01:01:56
+Sabotage,Edward,Line 4,2024-12-01 00:18:14
+Theft,Joseph,Line 2,2024-12-01 02:16:18
+Theft,Hannah,Line 3,2024-12-01 02:27:34
+Missed Deadline,Kimberly,Line 2,2024-12-01 03:50:05
+Theft,Renee,Line 1,2024-12-01 02:23:11
+Sabotage,Heather,Line 1,2024-12-01 01:58:50
+Sabotage,Sharon,Line 3,2024-12-01 04:07:58
+Sabotage,Dustin,Line 4,2024-12-01 01:57:18
+Theft,Margaret,Line 3,2024-12-01 01:56:55
+Theft,Jamie,Line 2,2024-12-01 01:48:16
+Sabotage,Jill,Line 3,2024-12-01 02:02:31
+Sabotage,Margaret,Line 4,2024-12-01 03:28:54
+Sabotage,Laura,Line 2,2024-12-01 03:41:15
+Missed Deadline,Angela,Line 1,2024-12-01 03:20:37
+Sabotage,Ashley,Line 3,2024-12-01 02:51:41
+Missed Deadline,Christopher,Line 3,2024-12-01 04:10:28
+Theft,Katelyn,Line 2,2024-12-01 01:14:18
+Sabotage,Christina,Line 1,2024-12-01 04:46:44
+Missed Deadline,Wesley,Line 4,2024-12-01 02:33:26
+Missed Deadline,Michele,Line 4,2024-12-01 03:34:51
+Theft,Jimmy,Line 4,2024-12-01 01:26:18
+Theft,Katelyn,Line 2,2024-12-01 01:30:34
+Missed Deadline,Cody,Line 2,2024-12-01 01:05:35
+Sabotage,Monique,Line 1,2024-12-01 04:43:24
+Sabotage,Shannon,Line 1,2024-12-01 02:43:04
+Missed Deadline,Karen,Line 2,2024-12-01 01:31:54
+Theft,Derrick,Line 4,2024-12-01 00:04:55
+Sabotage,Gail,Line 1,2024-12-01 00:52:17
+Missed Deadline,Virginia,Line 3,2024-12-01 04:43:11
+Theft,Michael,Line 2,2024-12-01 03:56:48
+Theft,Sharon,Line 3,2024-12-01 02:13:48
+Theft,Nicole,Line 4,2024-12-01 03:47:04
+Missed Deadline,Steven,Line 1,2024-12-01 02:41:29
+Missed Deadline,Christina,Line 4,2024-12-01 02:38:22
+Theft,Kimberly,Line 2,2024-12-01 04:14:30
+Missed Deadline,Morgan,Line 4,2024-12-01 01:26:05
+Theft,Amber,Line 4,2024-12-01 02:04:40
+Sabotage,Bryan,Line 4,2024-12-01 00:08:54
+Sabotage,Michael,Line 2,2024-12-01 04:13:37
+Missed Deadline,Richard,Line 3,2024-12-01 02:27:25
+Sabotage,Sonya,Line 4,2024-12-01 02:07:55
+Sabotage,Sean,Line 4,2024-12-01 00:42:11
+Theft,Gary,Line 2,2024-12-01 01:27:17
+Missed Deadline,Philip,Line 3,2024-12-01 02:51:15
+Missed Deadline,Amy,Line 4,2024-12-01 03:12:57
+Theft,Matthew,Line 4,2024-12-01 02:10:26
+Sabotage,Sean,Line 2,2024-12-01 00:40:04
+Theft,Deborah,Line 3,2024-12-01 03:01:33
+Sabotage,Molly,Line 3,2024-12-01 02:46:48
+Theft,Megan,Line 2,2024-12-01 02:09:56
+Theft,Tina,Line 3,2024-12-01 03:24:56
+Missed Deadline,Kristen,Line 1,2024-12-01 00:49:25
+Theft,Nicole,Line 3,2024-12-01 04:47:36
+Sabotage,Julie,Line 1,2024-12-01 01:52:53
+Missed Deadline,Brittany,Line 1,2024-12-01 00:32:59
+Sabotage,Julie,Line 3,2024-12-01 03:59:04
+Theft,Virginia,Line 4,2024-12-01 03:11:58
+Missed Deadline,Kristina,Line 4,2024-12-01 02:25:39
+Missed Deadline,Kathryn,Line 4,2024-12-01 01:05:01
+Sabotage,Steven,Line 2,2024-12-01 03:22:38
+Sabotage,Margaret,Line 4,2024-12-01 02:50:39
+Sabotage,Christopher,Line 4,2024-12-01 01:14:50
+Theft,Justin,Line 2,2024-12-01 01:53:06
+Sabotage,Scott,Line 1,2024-12-01 02:30:08
+Missed Deadline,Morgan,Line 2,2024-12-01 03:43:09
+Theft,Jason,Line 3,2024-12-01 00:09:50
+Sabotage,Aaron,Line 3,2024-12-01 00:52:21
+Theft,Ronald,Line 4,2024-12-01 04:35:18
+Missed Deadline,Nicole,Line 3,2024-12-01 00:15:21
+Missed Deadline,Amy,Line 3,2024-12-01 04:27:03
+Missed Deadline,Molly,Line 4,2024-12-01 02:07:15
+Theft,James,Line 4,2024-12-01 01:53:49
+Missed Deadline,Samantha,Line 1,2024-12-01 04:14:30
+Sabotage,Valerie,Line 3,2024-12-01 01:13:39
+Theft,Larry,Line 1,2024-12-01 00:54:51
+Theft,Rachel,Line 1,2024-12-01 04:20:30
+Missed Deadline,Robert,Line 3,2024-12-01 01:10:21
+Theft,Lori,Line 4,2024-12-01 03:53:05
+Theft,Shannon,Line 4,2024-12-01 03:42:25
+Missed Deadline,Shannon,Line 1,2024-12-01 02:30:21
+Theft,Michelle,Line 2,2024-12-01 02:30:22
+Sabotage,Christina,Line 4,2024-12-01 03:12:42
+Sabotage,Andrea,Line 4,2024-12-01 03:31:20
+Missed Deadline,Christina,Line 4,2024-12-01 02:21:11
+Missed Deadline,Linda,Line 3,2024-12-01 04:27:30
+Theft,Dustin,Line 2,2024-12-01 02:53:54
+Theft,Robert,Line 2,2024-12-01 04:01:52
+Sabotage,Richard,Line 4,2024-12-01 02:12:41
+Missed Deadline,James,Line 1,2024-12-01 01:41:42
+Theft,Jennifer,Line 2,2024-12-01 04:37:31
+Sabotage,Christina,Line 2,2024-12-01 04:00:15
+Sabotage,Bradley,Line 3,2024-12-01 01:07:40
+Theft,Jason,Line 3,2024-12-01 02:35:04
+Theft,Ronald,Line 3,2024-12-01 00:34:15
+Theft,Jeffrey,Line 3,2024-12-01 02:07:09
+Sabotage,Jeanette,Line 1,2024-12-01 01:44:03
+Theft,Charles,Line 1,2024-12-01 02:52:14
+Sabotage,Kenneth,Line 2,2024-12-01 00:18:23
+Theft,Sonya,Line 3,2024-12-01 01:16:01
+Missed Deadline,Katelyn,Line 3,2024-12-01 00:47:26
+Theft,Nicole,Line 3,2024-12-01 04:27:05
+Theft,Gregory,Line 2,2024-12-01 04:49:45
+Theft,Christine,Line 2,2024-12-01 00:46:29
+Sabotage,Kenneth,Line 2,2024-12-01 03:38:46
+Sabotage,Michele,Line 1,2024-12-01 01:05:20
+Sabotage,Amy,Line 4,2024-12-01 04:32:04
+Sabotage,Renee,Line 2,2024-12-01 01:10:26
+Missed Deadline,Leonard,Line 2,2024-12-01 00:56:57
+Sabotage,Angela,Line 3,2024-12-01 03:50:30
+Theft,Amy,Line 2,2024-12-01 01:50:42
+Sabotage,Charles,Line 4,2024-12-01 03:40:19
+Theft,Kristen,Line 2,2024-12-01 01:51:33
+Theft,Richard,Line 3,2024-12-01 01:19:39
+Theft,Andrea,Line 4,2024-12-01 00:25:36
+Missed Deadline,Aaron,Line 3,2024-12-01 03:59:45
+Missed Deadline,Andrew,Line 3,2024-12-01 01:10:18
+Missed Deadline,Edward,Line 2,2024-12-01 02:17:22
+Theft,Jennifer,Line 3,2024-12-01 03:30:17
+Theft,Peggy,Line 4,2024-12-01 01:48:11
+Theft,Stephen,Line 2,2024-12-01 04:22:10
+Missed Deadline,Mia,Line 1,2024-12-01 02:28:13
+Sabotage,Connor,Line 1,2024-12-01 01:47:47
+Theft,Linda,Line 3,2024-12-01 03:32:12
+Missed Deadline,Brian,Line 1,2024-12-01 01:15:37
+Theft,Jessica,Line 1,2024-12-01 04:06:39
+Theft,Patrick,Line 3,2024-12-01 02:53:26
+Theft,Morgan,Line 4,2024-12-01 04:27:00
+Sabotage,George,Line 4,2024-12-01 03:36:45
+Missed Deadline,Nicholas,Line 3,2024-12-01 02:36:08
+Missed Deadline,Bethany,Line 2,2024-12-01 03:20:30
+Missed Deadline,Andrea,Line 4,2024-12-01 01:58:02
+Sabotage,Erik,Line 3,2024-12-01 01:44:44
+Missed Deadline,Margaret,Line 1,2024-12-01 03:17:15
+Missed Deadline,Gregory,Line 4,2024-12-01 04:35:20
+Theft,Valerie,Line 4,2024-12-01 02:28:59
+Sabotage,Kristen,Line 2,2024-12-01 00:28:38
+Missed Deadline,Nathan,Line 1,2024-12-01 00:49:32
+Theft,Ryan,Line 3,2024-12-01 02:48:28
+Theft,Megan,Line 3,2024-12-01 03:16:30
+Missed Deadline,Ryan,Line 4,2024-12-01 00:50:12
+Missed Deadline,Joseph,Line 2,2024-12-01 03:37:23
+Sabotage,Timothy,Line 3,2024-12-01 01:58:14
+Missed Deadline,Peggy,Line 1,2024-12-01 01:21:17
+Missed Deadline,Stephen,Line 4,2024-12-01 01:58:52
+Sabotage,Michael,Line 2,2024-12-01 01:19:36
+Missed Deadline,Caleb,Line 2,2024-12-01 04:08:10
+Sabotage,Riley,Line 3,2024-12-01 03:20:36
+Missed Deadline,Bethany,Line 1,2024-12-01 01:08:09
+Missed Deadline,Molly,Line 3,2024-12-01 00:44:50
+Theft,Nicholas,Line 1,2024-12-01 00:55:44
+Missed Deadline,Elizabeth,Line 2,2024-12-01 01:02:27
+Theft,Christopher,Line 3,2024-12-01 03:59:46
+Missed Deadline,Virginia,Line 4,2024-12-01 02:33:52
+Missed Deadline,Jimmy,Line 1,2024-12-01 03:45:47
+Sabotage,Jennifer,Line 1,2024-12-01 03:42:15
+Theft,George,Line 4,2024-12-01 03:37:21
+Missed Deadline,Christopher,Line 2,2024-12-01 01:17:30
+Missed Deadline,Russell,Line 4,2024-12-01 02:57:25
+Missed Deadline,Jimmy,Line 1,2024-12-01 00:08:34
+Sabotage,Christopher,Line 1,2024-12-01 01:36:22
+Missed Deadline,Scott,Line 4,2024-12-01 04:19:12
+Sabotage,Gary,Line 4,2024-12-01 04:28:46
+Theft,Andrea,Line 1,2024-12-01 03:26:01
+Theft,Rodney,Line 2,2024-12-01 00:55:59
+Missed Deadline,Kristina,Line 4,2024-12-01 00:07:40
+Theft,Steven,Line 2,2024-12-01 03:09:15
+Theft,Angela,Line 1,2024-12-01 03:10:52
+Sabotage,Michelle,Line 3,2024-12-01 00:32:22
+Sabotage,Richard,Line 3,2024-12-01 03:55:59
+Missed Deadline,Megan,Line 2,2024-12-01 01:05:10
+Sabotage,Emily,Line 3,2024-12-01 02:15:37
+Missed Deadline,Michael,Line 2,2024-12-01 03:57:20
+Missed Deadline,Margaret,Line 2,2024-12-01 03:41:53
+Missed Deadline,Monique,Line 3,2024-12-01 02:34:30
+Sabotage,Jill,Line 4,2024-12-01 02:57:53
+Theft,Virginia,Line 1,2024-12-01 02:41:42
+Missed Deadline,Ashley,Line 1,2024-12-01 02:38:12
+Sabotage,Omar,Line 1,2024-12-01 04:20:19
+Theft,Scott,Line 3,2024-12-01 02:41:54
+Sabotage,Amber,Line 1,2024-12-01 01:06:41
+Theft,Kristina,Line 3,2024-12-01 04:00:28
+Sabotage,Kimberly,Line 4,2024-12-01 01:25:01
+Theft,Christopher,Line 2,2024-12-01 02:20:50
+Sabotage,Joseph,Line 2,2024-12-01 00:20:25
+Missed Deadline,Wesley,Line 3,2024-12-01 02:20:38
+Missed Deadline,Andrew,Line 2,2024-12-01 03:23:22
+Sabotage,Jennifer,Line 4,2024-12-01 02:15:13
+Missed Deadline,Sharon,Line 3,2024-12-01 00:40:10
+Sabotage,Mia,Line 2,2024-12-01 02:07:53
+Theft,Nicholas,Line 2,2024-12-01 00:50:58
+Sabotage,Kenneth,Line 2,2024-12-01 03:01:51
+Theft,Lori,Line 4,2024-12-01 01:44:56
+Sabotage,Jamie,Line 3,2024-12-01 00:35:23
+Sabotage,Gary,Line 2,2024-12-01 01:45:14
+Theft,Julie,Line 1,2024-12-01 03:21:10
+Sabotage,Stephen,Line 3,2024-12-01 01:45:18
+Missed Deadline,Andrea,Line 3,2024-12-01 04:12:34
+Missed Deadline,Virginia,Line 2,2024-12-01 01:39:57
+Sabotage,Bethany,Line 4,2024-12-01 04:03:18
+Missed Deadline,Priscilla,Line 2,2024-12-01 02:17:30
+Sabotage,Christine,Line 3,2024-12-01 04:36:47
+Sabotage,Laura,Line 3,2024-12-01 00:59:46
+Theft,Billy,Line 4,2024-12-01 04:44:05
+Missed Deadline,Kathryn,Line 4,2024-12-01 03:22:52
+Missed Deadline,Christina,Line 2,2024-12-01 04:02:00
+Sabotage,Derrick,Line 2,2024-12-01 00:04:31
+Theft,Molly,Line 4,2024-12-01 01:26:39
+Missed Deadline,Christopher,Line 4,2024-12-01 00:39:58
+Theft,Gary,Line 2,2024-12-01 00:05:50
+Sabotage,Christopher,Line 4,2024-12-01 03:02:30
+Missed Deadline,Joseph,Line 2,2024-12-01 04:44:49
+Missed Deadline,Danielle,Line 1,2024-12-01 00:29:15
+Missed Deadline,Rebecca,Line 1,2024-12-01 01:38:29
+Theft,Alicia,Line 1,2024-12-01 00:17:35
+Sabotage,Judy,Line 3,2024-12-01 02:44:51
+Theft,Nicholas,Line 4,2024-12-01 04:22:28
+Theft,Anne,Line 1,2024-12-01 01:41:05
+Sabotage,Billy,Line 1,2024-12-01 01:02:14
+Sabotage,Judy,Line 4,2024-12-01 02:31:33
+Missed Deadline,Jeanette,Line 2,2024-12-01 04:16:04
+Theft,Christopher,Line 1,2024-12-01 04:27:29
+Missed Deadline,Sonya,Line 2,2024-12-01 03:41:35
+Sabotage,Kristen,Line 3,2024-12-01 01:20:06
+Theft,Morgan,Line 3,2024-12-01 00:07:05
+Theft,Samantha,Line 3,2024-12-01 02:54:01
+Sabotage,Sharon,Line 4,2024-12-01 04:16:12
+Sabotage,Kevin,Line 2,2024-12-01 04:38:18
+Theft,Kevin,Line 4,2024-12-01 01:11:24
+Theft,Judy,Line 1,2024-12-01 00:43:30
+Missed Deadline,Matthew,Line 4,2024-12-01 00:55:48
+Sabotage,James,Line 1,2024-12-01 02:23:11
+Missed Deadline,Sarah,Line 2,2024-12-01 04:25:06
+Sabotage,George,Line 2,2024-12-01 00:22:22
+Sabotage,Michael,Line 2,2024-12-01 04:18:31
+Theft,Christopher,Line 3,2024-12-01 00:54:48
+Sabotage,Margaret,Line 1,2024-12-01 04:05:59
+Theft,Terri,Line 1,2024-12-01 01:15:06
+Theft,Jeanette,Line 1,2024-12-01 03:33:24
+Sabotage,Margaret,Line 3,2024-12-01 02:29:08
+Missed Deadline,Michael,Line 4,2024-12-01 04:43:33
+Theft,Gail,Line 3,2024-12-01 01:00:06
+Sabotage,John,Line 1,2024-12-01 04:04:33
+Sabotage,Kimberly,Line 1,2024-12-01 00:01:51
+Sabotage,Leonard,Line 4,2024-12-01 03:37:23
+Missed Deadline,Virginia,Line 2,2024-12-01 01:40:51
+Missed Deadline,Christopher,Line 1,2024-12-01 04:13:03
+Sabotage,Dustin,Line 2,2024-12-01 03:25:35
+Sabotage,Laura,Line 2,2024-12-01 00:18:52
+Theft,Lisa,Line 4,2024-12-01 04:48:45
+Missed Deadline,Isabella,Line 4,2024-12-01 04:04:54
+Theft,Morgan,Line 3,2024-12-01 04:28:39
+Missed Deadline,Kayla,Line 4,2024-12-01 00:42:16
